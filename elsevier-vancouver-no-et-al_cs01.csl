@@ -49,10 +49,11 @@
     </choose>
   </macro>
   <macro name="publisher">
-    <text variable="publisher-place" suffix=": " text-case="title"/>
-    <text variable="publisher" suffix=", "/>
+  <group delimiter=", ">
+    <text variable="publisher"/>
     <text macro="year-date"/>
-  </macro>
+  </group>
+</macro>
   <macro name="edition">
     <choose>
       <if is-numeric="edition">
