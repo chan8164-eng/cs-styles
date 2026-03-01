@@ -1,13 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl"
-       page-range-format="minimal"
-       class="in-text"
-       version="1.0"
-       demote-non-dropping-particle="sort-only"
-       default-locale="en-US">
-
-  <info>
-    <title>Elsevier - Vancouver - CS - 01</title>
+<info>
+    <title>Elsevier - NLM/Vancouver - CS 01 </title>
     <title-short>Elsevier - Vancouver</title-short>
     <id>http://csl.mendeley.com/styles/475581021/elsevier-vancouver-no-et-al</id>
     <link href="http://www.zotero.org/styles/elsevier-vancouver-no-et-al" rel="self"/>
